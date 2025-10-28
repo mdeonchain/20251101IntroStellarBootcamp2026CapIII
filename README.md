@@ -1,6 +1,6 @@
-## Stellar Summer Friday – Recorrido Soroban
+## Introducción Stellar BootCamp 2026 – Recorrido Soroban
 
-**Fecha del evento:** 29 de agosto de 2025
+**Fecha del evento:** 1 de noviembre de 2025
 **Organizado por:** MDE OnChain
 
 > Una inmersión técnica en los conceptos fundamentales de **Soroban** sobre la red Stellar, con apoyo de ejemplos en Rust, scripts y contratos de demostración.
@@ -9,7 +9,7 @@
 
 ## 📘 Contenidos del repositorio
 
-Este repositorio sirve como guía y material de apoyo para el evento Stellar Summer Friday, enfocado en Soroban y desarrollo de smart contracts en Stellar. Incluye:
+Este repositorio sirve como guía y material de apoyo para el evento Introducción Stellar BootCamp 2026, enfocado en Soroban y desarrollo de smart contracts en Stellar. Incluye:
 
 * **README.md (este documento)** — visión general, instrucciones y estructura.
 
