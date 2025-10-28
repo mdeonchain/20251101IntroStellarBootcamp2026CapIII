@@ -54,7 +54,7 @@ A continuación, una guía básica para que alguien clone el repositorio y comie
 ### 1. Clonar el repositorio
 
 ```plaintext
-git clone https://github.com/mdeonchain/20251101IntroStellarBootcamp2026CapIII.git)
+git clone https://github.com/mdeonchain/20251101IntroStellarBootcamp2026CapIII.git
 cd 20251101IntroStellarBootcamp2026CapIII
 ```
 ## **Navegación**
