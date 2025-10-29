@@ -45,7 +45,7 @@ Puedes lograr esto ejecutando:
 
  
 
-`stellar keys generate --global <alias> --network testnet --fund `
+`stellar keys generate  <alias> --network testnet --fund `
 
 `stellar keys address <alias>`
 
