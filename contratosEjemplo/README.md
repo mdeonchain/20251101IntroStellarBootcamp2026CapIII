@@ -46,6 +46,7 @@ Puedes lograr esto ejecutando:
  
 
 `stellar keys generate --global <alias> --network testnet --fund 
+
 stellar keys address <alias>`
 
 * `stellar keys generate … --fund` genera la cuenta con fondos iniciales en testnet.
