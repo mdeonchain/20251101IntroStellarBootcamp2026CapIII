@@ -45,9 +45,9 @@ Puedes lograr esto ejecutando:
 
  
 
-`stellar keys generate --global <alias> --network testnet --fund 
+`stellar keys generate --global <alias> --network testnet --fund `
 
-stellar keys address <alias>`
+`stellar keys address <alias>`
 
 * `stellar keys generate … --fund` genera la cuenta con fondos iniciales en testnet.
 * `stellar keys address <alias>` muestra la dirección pública asociada al alias, que usarás para interacciones con contratos.
