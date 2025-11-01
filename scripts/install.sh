@@ -34,5 +34,6 @@ stellar --version || { echo "Error: Stellar CLI no se instaló correctamente"; e
 
 echo "=== Verificando instalación de Git ==="
 git --version
+source ~/.bashrc
 
 echo "=== Instalación completada correctamente ==="
