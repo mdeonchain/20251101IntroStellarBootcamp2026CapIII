@@ -17,11 +17,11 @@ source "$HOME/.cargo/env"
 rustup target add wasm32v1-none
 
 # 5. Descargar e instalar Stellar CLI
-wget -q https://github.com/stellar/stellar-cli/releases/download/v23.0.1/stellar-cli-23.0.1-x86_64-unknown-linux-gnu.tar.gz
-tar -xvf stellar-cli-23.0.1-x86_64-unknown-linux-gnu.tar.gz
+wget -q https://github.com/stellar/stellar-cli/releases/download/v23.1.4/stellar-cli-23.1.4-x86_64-unknown-linux-gnu.tar.gz
+tar -xvf stellar-cli-23.1.4-x86_64-unknown-linux-gnu.tar.gz
 sudo mv stellar /usr/local/bin/
 sudo chmod +x /usr/local/bin/stellar
-rm stellar-cli-23.0.1-x86_64-unknown-linux-gnu.tar.gz
+rm stellar-cli-23.1.4-x86_64-unknown-linux-gnu.tar.gz
 
 # 6. Verificar instalaciones
 echo "=== Verificando instalación de Rust ==="
